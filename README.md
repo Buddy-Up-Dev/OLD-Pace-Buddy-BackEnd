@@ -1,4 +1,4 @@
-# dnd-5th-6-Backend
+# Pace-Buddy-Backend
 
 ### Commit Convention
 | prefix | commit message |
