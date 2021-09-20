@@ -1,4 +1,4 @@
-# dnd-5th-6-repo
+# dnd-5th-6-Backend
 
 ### Commit Convention
 | prefix | commit message |
