@@ -12,9 +12,6 @@
 |chore|빌드 업무 수정, 패키지 매니저 수정|
 |hotfix|긴급 버그 수정(AWS 등)|
 
-### Architecture
-<img src="../master/images/architecture.PNG" height="300">
-
 ### Git Branch 전략
  -  master  - 최종 완성 됐을 때 [develop] 으로부터 merge  
  -  develop - 주기적으로 [feature/(기능)] 으로부터 merge   
